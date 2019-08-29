@@ -1,0 +1,4 @@
+#Sun Feb 24 03:22:07 EST 2019
+base.0=/Users/akhilsenroy/Documents/University at Buffalo/Sem 2/Distributed Systems/PA2/GroupMessenger1/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
